@@ -1,7 +1,7 @@
 #Export data frame to work in Orange
 #Date: 05-03-2019
 #Author: Mauro Pazmino
-#If you find this code useful, please include a citation for it. Thanks!
+#If you use this code, please include a citation. 
 
 
 # import packages
